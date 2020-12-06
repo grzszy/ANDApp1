@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Android Quiz Studio</string>
+    <string name="tab_text_3">Settings</string>
+    <string name="tab_text_2">Quiz</string>
+    <string name="tab_text_1">Scores</string>
+    <string name="Login">Log in</string>
+
+    <string name="start">START!</string>
+    <string name="AQS">Android Quiz Studio</string>
+
+</resources>
+
+

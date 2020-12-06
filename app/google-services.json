@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1080252090013",
+    "project_id": "androidquizstudio",
+    "storage_bucket": "androidquizstudio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080252090013:android:31af3217c0ce4407c2b674",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080252090013-i4l411aksbaa3k95dn68kuaog7rns8cc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkEtjZ-O0aVOZbNEBCW-scbFLvCqOse1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080252090013-i4l411aksbaa3k95dn68kuaog7rns8cc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
